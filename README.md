@@ -64,10 +64,4 @@ El análisis se realizó ejecutando cada algoritmo con arreglos de tamaños crec
 
 Cada algoritmo tiene su aplicación óptima dependiendo del contexto: si se prioriza facilidad de implementación o eficiencia con grandes volúmenes de datos.
 
----
-
-## Conclusiones
-
-Este proyecto fue desarrollado como parte de una práctica académica en C# para explorar y comparar diferentes métodos de ordenamiento.
-
 
